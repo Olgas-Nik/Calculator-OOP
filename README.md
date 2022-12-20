@@ -1,4 +1,7 @@
-### Hi there 👋
+Привет
+Меня зовут Ольга
+Я начинающий Python Developer
+
 
 <!--
 **Olgas-Nik/Olgas-Nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
